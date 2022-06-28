@@ -1,4 +1,4 @@
-# Jekyll ʕ•ᴥ•ʔ Bear Blog ![Test](https://github.com/hmk/jekyll-theme-bearblog/workflows/CI/badge.svg?branch=main&event=push)
+# Jekyll ʕ•ᴥ•ʔ Bear Blog ![Test](https://github.com/hmk/jekyll-theme-bearblog/workflows/CI/jekyll.yml/badge.svg?branch=main&event=push)
 
 🧸 A [Jekyll](https://jekyllrb.com/) theme based on [Bear Blog](https://bearblog.dev)
 
