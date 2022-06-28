@@ -1,0 +1,15 @@
+---
+layout: base
+---
+
+<h2>{{ page.title }}</h2>
+<p>
+  <i>
+    <time datetime='{{ page.date | date: "%-d %B %Y" }}' pubdate>
+      {{ page.date | date: "%-d %B %Y" }}
+    </time>
+  </i>
+</p>
+<content>
+  {{ content }}
+</content>
